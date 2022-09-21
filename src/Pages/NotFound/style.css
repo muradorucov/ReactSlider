@@ -1,0 +1,12 @@
+.not404{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.not404 h2{
+    font-size: 100px;
+    font-weight: bold;
+    color: tomato;
+}

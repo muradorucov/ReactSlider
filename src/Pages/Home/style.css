@@ -1,0 +1,13 @@
+.homepage{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.homepage h1{
+    font-size: 100px;
+    font-weight: 800;
+    color: tomato;
+}
