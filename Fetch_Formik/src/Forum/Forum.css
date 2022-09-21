@@ -1,0 +1,23 @@
+.input-item{
+    width: 500px;
+    font-size: 24px;
+    border: 1px solid tomato;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.Item{
+    width: 700px;
+    margin:auto;
+    display:  flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Item select{
+    width:525px;
+}
+
+button{
+    width: 100%;
+}
